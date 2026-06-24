@@ -124,6 +124,7 @@ Interactive application allowing users to:
 - Probability-based output
 - Risk segmentation
 - User-friendly interface
+<img width="1912" height="876" alt="streamlit1" src="https://github.com/user-attachments/assets/db50b2dc-6585-4419-b1a5-bf2102831195" />
 
 ---
 
@@ -161,6 +162,8 @@ Comparison of:
 - Churners Captured
 - Recall
 Across multiple decision thresholds to evaluate targeting trade-offs.
+<img width="1322" height="742" alt="dashboard1" src="https://github.com/user-attachments/assets/746a03f1-411c-4b44-a55c-f4097c2f53a1" />
+<img width="1315" height="737" alt="dashboard2" src="https://github.com/user-attachments/assets/33cb3243-29e8-4468-aef8-69496b0a80ac" />
 
 ---
 
@@ -175,8 +178,6 @@ Across multiple decision thresholds to evaluate targeting trade-offs.
 
 ### Visualization
 - Power BI
-<img width="1322" height="742" alt="dashboard1" src="https://github.com/user-attachments/assets/746a03f1-411c-4b44-a55c-f4097c2f53a1" />
-<img width="1315" height="737" alt="dashboard2" src="https://github.com/user-attachments/assets/33cb3243-29e8-4468-aef8-69496b0a80ac" />
 
 ---
 
